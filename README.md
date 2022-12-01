@@ -4,7 +4,7 @@
 - 📫 How to reach me ...
  -->
 
-![Cozo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oownahcohc&theme=dark&show_icons=true)
+![Cozo's GitHub stats](https://github-readme-stats.vercel.app/api?username=oownahcohc&theme=material-palenight&show_icons=true)
 
 〰️ **Skills** 〰️
 
